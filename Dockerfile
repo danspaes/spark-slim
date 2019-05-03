@@ -1,5 +1,4 @@
 FROM python:3.6-alpine 
-openjdk:8-jre-alpine
 MAINTAINER BY "Daniel Paes danspaes@gmail.com"
 
 ENV SPARK_VERSION=2.3.1
